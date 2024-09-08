@@ -7,6 +7,6 @@ Go1010 (International) Limited was an experienced online solution provider that 
 <b>Programming Languages:</b> Java, JSP, PHP, JavaScript, HTML5, CSS, XML</br>
 <b>Web Technologies:</b> AJAX, RESTful API, JSON</br>
 <b>Frameworks:</b> CakePHP, Bootstrap</br>
-<b>Databases:</b> MySQL</br>
+<b>Databases:</b> MySQL, HeidiSQL</br>
 <b>Operating Systems:</b> Windows</br>
 <b>Software & Tools:</b> SVN, WordPress, NetBeans</br>
